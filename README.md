@@ -1,2 +1,2 @@
 # FindMyIp
-FindMyIp - Android app with MVVM, Retrofit, Hilt
+FindMyIp - Android app with MVVM, Retrofit, Hilt, Jetpack Compose
